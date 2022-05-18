@@ -85,7 +85,7 @@ Line 87 - Add:
 }
 
 # URL of deployed application 
-file:///C:/Users/usai1/Documents/GIT%20local/Singharaj's%20First%20Challenge/index.html
+https://indieun.github.io/singharaj-module-1-challenge
 
 # URL of GitHub Repository
 https://github.com/indieun/singharaj-module-1-challenge

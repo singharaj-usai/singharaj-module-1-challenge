@@ -85,7 +85,7 @@ Line 87 - Add:
 }
 
 # URL of deployed application 
-https://indieun.github.io/singharaj-module-1-challenge
+https://singharaj-usai.github.io/singharaj-module-1-challenge/
 
 # URL of GitHub Repository
 https://github.com/indieun/singharaj-module-1-challenge

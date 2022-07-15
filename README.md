@@ -88,4 +88,4 @@ Line 87 - Add:
 https://singharaj-usai.github.io/singharaj-module-1-challenge/
 
 # URL of GitHub Repository
-https://github.com/indieun/singharaj-module-1-challenge
+https://github.com/singharaj-usai/singharaj-module-1-challenge
